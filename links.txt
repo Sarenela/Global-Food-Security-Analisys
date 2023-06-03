@@ -1,0 +1,28 @@
+do scrapowania:
+https://ourworldindata.org/grapher/meat-consumption-vs-gdp-per-capita
+
+https://ourworldindata.org/grapher/co-emissions-per-capita
+
+https://ourworldindata.org/grapher/land-area-km?tab=table
+
+https://ourworldindata.org/grapher/number-of-deaths-by-risk-factor
+https://ourworldindata.org/grapher/dietary-compositions-by-commodity-group?tab=table
+
+
+
+pobrane excel: 
+https://ourworldindata.org/grapher/share-healthy-diet-unaffordable
+
+link:
+https://databank.worldbank.org/source/food-prices-for-nutrition#
+
+https://databank.worldbank.org/source/food-prices-for-nutrition#
+https://ourworldindata.org/food-prices#interactive-charts-on-food-prices
+https://ourworldindata.org/grapher/cereal-yield
+
+arable land %:
+https://data.worldbank.org/indicator/AG.LND.ARBL.ZS
+
+drzewa decyzyjne sa wujasnialne , sklearn fajnie uzyc, na gorze najwazniejsze cechy wplywajace na decyzje
+
+https://www.fao.org/faostat/en/#data/QI   =  Gross per capita Production Index Number (2014-2016 = 100)
