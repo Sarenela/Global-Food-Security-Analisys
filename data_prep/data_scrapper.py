@@ -17,8 +17,6 @@ def adjust_unit(value):
         value = value.replace("kg", "")
     elif "$" in value:
         value = value.replace("$", "").replace(",", "")
-    elif "$" in value:
-        value = value.replace("$", "").replace(",", "")
     elif "kcal" in value:
         value = value.replace("kcal", "").replace(",", "")
     return value.strip()
